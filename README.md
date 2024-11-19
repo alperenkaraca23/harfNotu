@@ -1,2 +1,2 @@
 # harfNotu
-<li> I made this application for students to calculate their course average <\li>
+<li> I made this application for students to calculate their course average </li>
